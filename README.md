@@ -1,0 +1,14 @@
+# apollo-user 12 SQ3A.220605.009.A1 8643238 release-keys
+- manufacturer: 
+- platform: kona
+- codename: apollo
+- flavor: apollo-user
+- release: 12
+- id: SQ3A.220605.009.A1
+- incremental: 8643238
+- tags: release-keys
+- fingerprint: Redmi/apollo/apollo:12/SQ3A.220605.009.A1/8643238:user/release-keys
+- is_ab: false
+- brand: Redmi
+- branch: apollo-user-12-SQ3A.220605.009.A1-8643238-release-keys
+- repo: redmi_apollo_dump
